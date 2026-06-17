@@ -7,7 +7,7 @@
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/brianMxBm?label=follow&style=social)](https://github.com/brianMxBm)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a fullstack software developer specializing in web & moible applications. I'm currently working on releasing a social media application. \
+💡 &nbsp; I'm a fullstack software developer specializing in web & mobile applications. I'm currently working on releasing a social media application. \
 🎓&nbsp;I graduated form California State University Northridge (Computer Science, Cum Laude, Batch of 2022).\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, ThreeJS, and Swift.\
 ✍️ &nbsp;In my free time, I write poetry, play video games and lift.\
